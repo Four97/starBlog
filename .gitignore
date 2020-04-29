@@ -1,0 +1,13 @@
+# Intellij
+.idea/*
+*.iml
+*.iws
+
+# Maven
+log/*
+target/*
+
+
+#数据库
+generatorConfig.xml
+src/main/resources/jdbcConfig.properties
